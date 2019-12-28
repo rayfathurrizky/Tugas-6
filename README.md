@@ -1,6 +1,8 @@
 # Tugas-6
 Membuat Package dan modul
 
+![Screenshot (75)](https://user-images.githubusercontent.com/56881488/71550063-8ea59300-29fa-11ea-87be-e863e5410e17.png)
+
 
 
 **Package & Module**
